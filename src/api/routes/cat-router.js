@@ -13,3 +13,4 @@ catRouter.route('/').get(getCat).post(postCat);
 catRouter.route('/:id').get(getCatById);
 
 export default catRouter;
+

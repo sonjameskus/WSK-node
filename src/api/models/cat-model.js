@@ -33,3 +33,4 @@ const addCat = (cat) => {
 };
 
 export {listAllCats, findCatById, addCat};
+

@@ -24,3 +24,4 @@ const postCat = (req, res) => {
 };
 
 export {getCat, getCatById, postCat};
+
