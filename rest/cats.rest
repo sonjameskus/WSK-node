@@ -1,0 +1,13 @@
+GET http://127.0.0.1:3000/api/v1/cat
+
+
+
+### post
+POST http://127.0.0.1:3000/api/v1/cat
+Content-Type: application/json
+
+{ "cat_name": "Kiri",
+"weight": 6,
+"owner": "Sonja" }
+
+
